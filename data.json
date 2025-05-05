@@ -1,0 +1,86 @@
+{
+    "profile": {
+        "name": "ZIELL4MP.",
+        "bio": "Digital creator & content curator. Welcome to my online space where I share my passions and connect with you!",
+        "image": "https://files.catbox.moe/it4vzf.jpg"
+    },
+    "links": [
+        {
+            "title": "Instagram",
+            "url": "https://instagram.com/yourusername",
+            "icon": "fab fa-instagram"
+        },
+        {
+            "title": "TikTok",
+            "url": "https://tiktok.com/@ziellamp",
+            "icon": "fab fa-tiktok"
+        },
+        {
+            "title": "Channel Preset",
+            "url": "https://whatsapp.com/channel/0029Vb26nlxLNSZxPZjhIu2G",
+            "icon": "fab fa-whatsapp"
+        },
+        {
+            "title": "WhatsApp Admin",
+            "url": "https://wa.me/6283897159514",
+            "icon": "fas fa-whatsapp"
+        }
+    ],
+    "music": {
+        "title": "Mangu ft Charita Utami.",
+        "artist": "FOURTWNTY",
+        "albumArt": "https://files.catbox.moe/ndfh22.jpg",
+        "audioFile": "https://files.catbox.moe/w6otpm.mp3", 
+        "duration": 240,
+        {
+  "timeSync": [
+    { "time": 0, "text": "Intro music..." },
+    { "time": 10, "text": "Suatu malam adam bercerita\nOne night Adam told a story" },
+    { "time": 17, "text": "Hawanya tak lagi di jalur yang sama\nThe vibe was no longer on the same path" },
+    { "time": 24, "text": "Bacaan dan doa yang mulai berbeda\nOur prayers and readings began to differ" },
+    { "time": 31, "text": "Ego dan air mata kita bicara\nEgo and tears spoke for us" },
+    { "time": 38, "text": "Gila tak masuk logika\nMadness beyond logic" },
+    { "time": 43, "text": "Termangu hatiku\nMy heart is dazed" },
+    { "time": 48, "text": "Kau menggenggam kumenadahnya\nYou held it as I lifted my hands" },
+    
+    { "time": 54, "text": "Berdamai dengan apa yang terjadi\nMake peace with what has happened" },
+    { "time": 60, "text": "Kunci dari semua masalah ini\nThe key to all this trouble" },
+    { "time": 66, "text": "Jujur tak mudah untuk melangkah pergi\nHonestly, it’s hard to walk away" },
+    { "time": 72, "text": "Ini soal hati bukan yang diyakini\nThis is about the heart, not belief" },
+
+    { "time": 78, "text": "Ow gila tak masuk logika\nOh, madness beyond logic" },
+    { "time": 84, "text": "Termangu hatiku\nMy heart is dazed" },
+    { "time": 89, "text": "Kau menggenggam kumenadahnya\nYou held it as I lifted my hands" },
+
+    { "time": 95, "text": "Ow gila ini tak biasa\nOh, this madness is unusual" },
+    { "time": 101, "text": "Tertegun hatiku\nMy heart was stunned" },
+    { "time": 106, "text": "Kau menggenggam kumenadahnya\nYou held it as I lifted my hands" },
+
+    { "time": 112, "text": "Ho oh\nHo oh" },
+    { "time": 118, "text": "Jangan salahkan faham ku kini tertuju oh\nDon’t blame the faith I now follow" },
+    { "time": 124, "text": "Siapa yang tau\nWho knows" },
+    { "time": 128, "text": "Siapa yang mau\nWho would want to" },
+    { "time": 132, "text": "Kau di sana\nYou're over there" },
+    { "time": 136, "text": "Aku diseberangmu\nI'm on the other side" },
+
+    { "time": 140, "text": "Cerita kita sulit dicerna\nOur story is hard to digest" },
+    { "time": 146, "text": "Tak lagi sama\nNo longer the same" },
+    { "time": 150, "text": "Cara berdoa\nThe way we pray" },
+
+    { "time": 154, "text": "Cerita kita sulit diterka\nOur story is hard to predict" },
+    { "time": 160, "text": "Tak lagi sama\nNo longer the same" },
+    { "time": 164, "text": "Arah kiblatnya oh\nEven the direction of prayer, oh" },
+
+    { "time": 168, "text": "Cerita kita sulit dicerna\nOur story is hard to digest" },
+    { "time": 174, "text": "Tak lagi sama\nNo longer the same" },
+    { "time": 178, "text": "Cara berdoa\nThe way we pray" },
+
+    { "time": 182, "text": "Oh cerita kita sulit diterka\nOh, our story is hard to predict" },
+    { "time": 188, "text": "Tak lagi sama\nNo longer the same" },
+    { "time": 192, "text": "Arah kiblatnya\nThe direction of prayer" },
+
+    { "time": 198, "text": "Outro...\n(Instrumental fade out)" }
+  ]
+}
+    }
+}
